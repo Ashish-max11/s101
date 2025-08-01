@@ -1,0 +1,12 @@
+h1{
+padding: 20px;
+  text-align: center;
+  color: #9fd17b;
+}
+form{
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);}
